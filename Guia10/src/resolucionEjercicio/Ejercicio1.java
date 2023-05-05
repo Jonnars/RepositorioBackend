@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package recorreColeccion;
+package resolucionEjercicio;
 
 /**
  *
  * @author pc
  */
-public class CorreccionErrores {
+public class Ejercicio1 {
     
 }
